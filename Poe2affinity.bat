@@ -1,0 +1,1 @@
+%comspec% /C start /normal /affinity ffffc PathOfExileSteam.exe
